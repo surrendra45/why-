@@ -20,7 +20,3 @@ I'm just learning here...
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/surren45) 
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=surrendra45&label=Profile%20Views&color=0&icon=0&pretty=false" />
-</a>
