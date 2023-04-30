@@ -9,8 +9,6 @@ Just a random guy visiting Internet on daily basis to learn more and more about 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=surrendra45&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=surrendra45&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=surrendra45&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=surrendra09)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
